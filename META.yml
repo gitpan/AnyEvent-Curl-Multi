@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               AnyEvent-Curl-Multi
-version:            0.02
+version:            0.03
 abstract:           a fast event-driven HTTP client
 author:
     - Michael S. Fischer <michael+cpan@dynamine.net>
